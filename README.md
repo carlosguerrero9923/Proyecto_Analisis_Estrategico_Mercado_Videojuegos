@@ -226,15 +226,15 @@ Los resultados facilitan la identificación de oportunidades futuras y reducen i
 
 <div align="center">
 
-### 📊 Ventas globales por plataforma
+### 📊 Ventas globales por plataforma (Top 10 plataformas)
 
 <img src="./images/ventas_plataformas.png" width="850">
 
-### 🌍 Preferencias por región
+### 🌍 Preferencias por región (Japón)
 
 <img src="./images/ventas_regionales.png" width="850">
 
-### ⭐ Relación entre reseñas y ventas
+### ⭐ Relación entre reseñas y ventas (PS3)
 
 <img src="./images/correlacion_reviews.png" width="850">
 
